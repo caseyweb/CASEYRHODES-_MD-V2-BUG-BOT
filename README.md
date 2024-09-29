@@ -8,7 +8,7 @@
 
   <p align="center">  
   <a href="https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E">
-    <img alt="CASEYRHODES" height="300" src="https://telegra.ph/file/c30dd787cb8066b19a694.jpg">
+    <img alt="CASEYRHODES" height="300" src="https://files.catbox.moe/q9bhv0.jpg">
     <h1 align="center">CASEYRHODES-MD-V2</h1>
   </a>
 </p>
