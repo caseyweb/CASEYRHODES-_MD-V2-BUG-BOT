@@ -3,7 +3,7 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;CASEYRHODES-_MD-V2-BUG-BOT;WHATSAPP+BUG+BOT;CREATED+BY+CASEYRHODESp🌟+PALVINWEB 🕷️;RELEASED+06.09.24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;CASEYRHODES-_MD-V2-BUG-BOT;WHATSAPP+BUG+BOT;CREATED+BY+CASEYRHODES🌟+PALVINWEB 🕷️;RELEASED+06.09.24" alt="Typing SVG" /></a>
   </p>
 
   <p align="center">  
@@ -13,7 +13,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/CASEYRHODES-_MD-V2-BUG-BOT"><img title="Author" src="https://img.shields.io/badge/Prexzybooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+2347063956321"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/CASEYRHODES-_MD-V2-BUG-BOT"><img title="Author" src="https://img.shields.io/badge/caseyrhodesbooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+254112192119"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
    
    
@@ -66,7 +66,7 @@ pkg install imagemagick
 
 termux-setup-storage
 
-git https://github.com/caseyweb/CASEYRHODES-_MD-V2-BUG-BOT/new/main?filename=README.md
+https://github.com/caseyweb/CASEYRHODES-_MD-V2-BUG-BOT
 
  cd CASEYRHODES MD V2-BUG-BOT
  
@@ -90,7 +90,7 @@ If you see any question while upgrading with this options with Y or n for defaul
 ### REPORT ISSUES
 
 
-`Please PREXZY BUG BOT is for scammers only. Don't use it to harm innocent people`
+`Please CASEYRHODES-_MD-V2-BUG-BOT is for scammers only. Don't use it to harm innocent people`
 
 
 ## Contributions
@@ -112,4 +112,4 @@ Enjoy the diverse features of the WhatsApp Bot to enhance your conversations and
 
 ## Developers:
 
--PRECIOUS AYOMIDE
+--------------------CASEYRHODES-MD-------------------- 
