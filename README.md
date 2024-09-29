@@ -23,7 +23,7 @@ CASEYRHODES-_MD-V2-BUG-BOT is a bug bot designed to enhance the functionality an
 If you clone my repo or use as base bot, dont forget to give credits. CASEYRHODES 
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/caseyweb/CASEYRHODES-_MD-V2-BUG-BOT/new/main?filename=README.md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/caseyweb/CASEYRHODES-_MD-V2-BUG-BOT/new/main?filename=README.md' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
    
 
 
