@@ -1,8 +1,8 @@
 //base by caseyrhodes 
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @GlobalTechInfo
-//Telegram: https://t.me/GlobalTechInc
-//GitHub: @GlobalTechInfo
+//Telegram: https://t.me/caseyrhodes001
+//GitHub: @caseyweb
 //Whatsapp:https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@GlobalTechInfo
 
