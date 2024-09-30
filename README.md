@@ -94,7 +94,7 @@ Contributions to CASEYRHODES MD V2 BUG BOT are welcome! If you have ideas for ne
    **CASEYRHODES** For developing it; <br>
 | [![Qasim Ali](https://github.com/caseyweb.png?size=100)](https://github.com/casryweb) |
 | --- |
-| [Qasim Ali](https://github.com/caseyweb) |
+| [CASEYRHODES](https://github.com/caseyweb) |
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
