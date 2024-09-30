@@ -1,3 +1,11 @@
+//base by DGXeon
+//re-upload? recode? copy code? give credit ya :)
+//YouTube: @GlobalTechInfo
+//Telegram: https://t.me/GlobalTechInc
+//GitHub: @GlobalTechInfo
+//WhatsApp: https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@GlobalTechInfo
+
 const {
    spawn
 } = require('child_process')
@@ -23,3 +31,4 @@ function start() {
       })
 }
 start()
+             
