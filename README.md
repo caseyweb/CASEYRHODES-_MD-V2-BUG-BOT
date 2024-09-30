@@ -92,6 +92,17 @@ Contributions to CASEYRHODES MD V2 BUG BOT are welcome! If you have ideas for ne
    **CASEYRHODES TECH** for inspiration 
 
    **CASEYRHODES** For developing it; <br>
+| [![Qasim Ali](https://github.com/caseyweb.png?size=100)](https://github.com/casryweb) |
+| --- |
+| [Qasim Ali](https://github.com/caseyweb) |
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+
+[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
 
 
 ## License
