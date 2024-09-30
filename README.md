@@ -44,35 +44,28 @@ IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY
 
 **Go to your termux and input this commands**
 
-   
-
-apt upgrade
-
-pkg update && pkg upgrade
-
-pkg install bash
-
- pkg install git
-
- pkg install nodejs
-
-pkg install ffmpeg
-
-pkg install wget
-
-pkg install imagemagick
-
- pkg install yarn
-
-termux-setup-storage
-
-https://github.com/caseyweb/CASEYRHODES-_MD-V2-BUG-BOT
-
- cd CASEYRHODES MD V2-BUG-BOT
  
- yarn install
- 
- npm start
+### TUTORIAL FOR TERMUX
+<a href="https://youtu.be/LYpyutDn_9s"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/LYpyutDn_9s" /><br>
+
+# DEPLOY IN TERMUX/UBUNTU
+```bash
+apt update && apt upgrade -y
+pkg install proot-distro
+proot-distro install ubuntu
+proot-distro login ubuntu
+apt update && apt upgrade -y
+apt install -y webp git ffmpeg curl imagemagick
+apt -y remove nodejs
+curl -fsSl https://deb.nodesource.com/setup_lts.x | bash - && apt -y install nodejs
+git clone https://github.com/<your gitHub Username>/XeonBug-V8
+cd XeonBug-V8
+npm install
+npm start
+```
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
 
 
 If you see any question while upgrading with this options with Y for yes or N for no = Click yes or y
